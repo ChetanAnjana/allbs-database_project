@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN AMAZONA
 
 # Lessons
@@ -73,3 +74,7 @@
     1. create sign in form
     2. add email and password
     3. add signin button
+=======
+# allbs-database_project
+This is a e-commerce website that we are creating for our database project
+>>>>>>> 97498615e30951ea933290319dff29ee6d4c6c25
