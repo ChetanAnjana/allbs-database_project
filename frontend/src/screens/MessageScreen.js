@@ -3,9 +3,9 @@ import React, { useContext, useReducer, useState, useEffect } from 'react'
 import { Helmet } from 'react-helmet-async'
 import Form from 'react-bootstrap/Form'
 import Button from 'react-bootstrap/Button'
-import { Store } from '../../../../../BookSharing-master/BookSharing-master/frontend/src/Store'
+import { Store } from '../Store'
 import { toast } from 'react-toastify'
-import { getError } from '../../../../../BookSharing-master/BookSharing-master/frontend/src/utils'
+import { getError } from '../utils'
 import axios from 'axios'
 
 const MessageScreen = () => {
